@@ -1,0 +1,5 @@
+Device name: Redmi Note 13 Pro 5G/ Poco X6 5G
+Device codename: garnet
+Device maintainer: kibria5
+
+## DerpFest 15
