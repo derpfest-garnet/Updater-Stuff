@@ -3,3 +3,9 @@ Device codename: garnet
 Device maintainer: kibria5
 
 ## DerpFest 15
+
+**Device Changelog 07.07.2025**
+- Shift to OSS
+- Miui Camera Included
+- Dolby Atmos Included
+- Misc Changes and Improvement
