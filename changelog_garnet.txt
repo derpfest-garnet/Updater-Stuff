@@ -4,6 +4,11 @@ Device maintainer: kibria5
 
 ## DerpFest 15
 
+**Device Changelog 12.07.2025**
+- Add KernelSU Next support
+- Add SUSFS support
+- Misc Changes and Improvement
+
 **Device Changelog 07.07.2025**
 - Shift to OSS
 - Miui Camera Included
