@@ -3,6 +3,13 @@ Device codename: garnet
 Device maintainer: kibria5
 
 ## DerpFest 15
+**Device Changelog 18.07.2025**
+- KernelSU next updated to latest V1.0.9
+- Susfs updated to latest V1.5.9
+- Merge tag KERNEL.PLATFORM.1.0.r1-19100-kernel.0
+- Optimize ram management
+- Improve battery backup
+- Misc Changes and Improvement
 
 **Device Changelog 12.07.2025**
 - Add KernelSU Next support
