@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1752295350,
-      "filename": "DerpFest-v15.2-20250712-garnet-Weekly-Stable.zip",
-      "id": "74596dde62f6182ceea663c45d63b960f281103c7bc45fc7d12f7e89f5830f9e",
+      "datetime": 1752831829,
+      "filename": "DerpFest-v15.2-20250718-garnet-Weekly-Stable.zip",
+      "id": "e4a114004c0a7191faec95443431e0995ed78845c6e1cdba275475ed7bf429bd",
       "romtype": "Weekly",
-      "size": 2569691792,
-      "url": "https://sourceforge.net/projects/garnet-aosp/files/derpfest/DerpFest-v15.2-20250712-garnet-Weekly-Stable.zip/download",
+      "size": 2570066778,
+      "url": "https://sourceforge.net/projects/garnet-aosp/files/derpfest/DerpFest-v15.2-20250718-garnet-Weekly-Stable.zip/download",
       "version": "v15.2"
     }
   ]
